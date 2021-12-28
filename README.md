@@ -1,15 +1,20 @@
 
 <p align="center">
-  <h3> Original Video
+  <h3 align="center"> Original Video
     </h>
+    <div align="center">
+
+  <a href="https://youtu.be/ixM6Ynrxj5k"><img src="https://img.youtube.com/vi/ixM6Ynrxj5k/0.jpg" alt="Original Video"></a>
+
+</div>
     </p>
     
-[![Loxzer X](https://img.youtube.com/vi/ixM6Ynrxj5k/0.jpg)](https://youtu.be/ixM6Ynrxj5k "Loxzer X")
+
 
   
  
- <p align="center">
-  <h3>Experimental Gameplay
+<p align="center">
+  <h3 align="center">Experimental Gameplay
     </h3>
 
    
