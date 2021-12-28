@@ -23,9 +23,9 @@
   <p align="center">
     Official GitHub Page Of Loxzer X
     <br>
-    <a href="https://github.com/LoxzerX/Addon-Template/issues">Bug Report</a>
+    <a href="https://github.com/LoxzerX/Addon-OP-Rain/issues">Bug Report</a>
     ·
-    <a href="https://github.com/LoxzerX/Addon-Template/pulls">Request Feature</a>
+    <a href="https://github.com/LoxzerX/Addon-OP-Rain/pulls">Request Feature</a>
   </p>
 </p>
 
@@ -87,8 +87,8 @@
 
 ## Bugs And Feature Requests
 
-> **[Bug Report](https://github.com/LoxzerX/Addon-Template/issues)** <br />
-> **[Request Feature](https://github.com/LoxzerX/Addon-Template/pulls)**
+> **[Bug Report](https://github.com/LoxzerX/Addon-OP-Rain/issues)** <br />
+> **[Request Feature](https://github.com/LoxzerX/Addon-OP-Rain/pulls)**
 
 ## Beli Icon Rank
 <p align="center">
