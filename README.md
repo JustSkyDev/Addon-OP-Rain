@@ -4,7 +4,7 @@
     </h>
     </p>
     
-[![Loxzer X](https://img.youtube.com/vi/ixM6Ynrxj5k/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Loxzer X")
+[![Loxzer X](https://img.youtube.com/vi/ixM6Ynrxj5k/0.jpg)](https://youtu.be/ixM6Ynrxj5k "Loxzer X")
 
   
  
