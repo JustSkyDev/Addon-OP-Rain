@@ -1,7 +1,13 @@
+
 <p align="center">
-  <a href="http://www.youtube.com/c/LoxzerX">
-    <img src="IMG_20211228_144938.jpg">
+  <a href="https://youtu.be/ixM6Ynrxj5k">
+     <img src="https://youtu.be/ixM6Ynrxj5k">
   </a>
+ </p>
+<p align="center">
+<a>
+    <img src="IMG_20211228_144938.jpg">
+</a>
 
   <h3 align="center">Official Loxzer X</h3>
 
