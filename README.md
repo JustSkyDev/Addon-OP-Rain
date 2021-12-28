@@ -1,10 +1,18 @@
 
 <p align="center">
-  <a href="https://youtu.be/ixM6Ynrxj5k">
-     <embed src="https://youtu.be/ixM6Ynrxj5k" >
-    </embed>
-  </a>
- </p>
+  <h3> Original Video
+    </h>
+    </p>
+    
+[![Loxzer X](https://img.youtube.com/vi/ixM6Ynrxj5k/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Loxzer X")
+
+  
+ 
+ <p align="center">
+  <h3>Experimental Gameplay
+    </h3>
+   
+   
 <p align="center">
 <a>
     <img src="IMG_20211228_144938.jpg">
