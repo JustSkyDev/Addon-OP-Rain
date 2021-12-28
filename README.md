@@ -1,7 +1,8 @@
 
 <p align="center">
   <a href="https://youtu.be/ixM6Ynrxj5k">
-     <img src="https://youtu.be/ixM6Ynrxj5k">
+     <embed style="width:720px; height:450px;" src=https://youtu.be/ixM6Ynrxj5k>
+    </embed>
   </a>
  </p>
 <p align="center">
