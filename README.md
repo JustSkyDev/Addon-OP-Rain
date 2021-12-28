@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.youtube.com/c/LoxzerX">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7M1_b8XV_s6S4ejHA5RTnRI12Ul2qs05cuj4GFRFtcTs_fp4blsscKGT&s=10" alt="Loxzer X" class="GeneratedImage">
+    <img src="IMG_20211228_144938.jpg">
   </a>
 
   <h3 align="center">Official Loxzer X</h3>
