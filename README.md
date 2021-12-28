@@ -11,7 +11,7 @@
  <p align="center">
   <h3>Experimental Gameplay
     </h3>
-   
+   </p>
    
 <p align="center">
 <a>
