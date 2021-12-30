@@ -108,6 +108,6 @@ _Harga 5K Dapet 4 Icon + Cara Pemasangan_<br />
 
 ## Copyright and license
 
-Must Read [MIT License](https://github.com/LoxzerX/Addon-Template/blob/data/LICENSE.md)
+Must Read [MIT License](https://github.com/LoxzerX/Addon-OP-Rain/blob/data/LICENSE.md)
 <p>Only Available On id_ID Language</p>
 
